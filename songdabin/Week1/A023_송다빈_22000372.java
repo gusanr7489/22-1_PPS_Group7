@@ -9,5 +9,6 @@ public class A023_송다빈_22000372 {
 			num = digit + n;
 		}
 
-	return num;
+		return num;
+	}
 }
