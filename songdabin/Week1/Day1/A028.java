@@ -2,7 +2,7 @@
 import java.util.*;
 import java.math.*;
 
-public class A028_송다빈_22000372 {
+public class A028 {
 	public static void main(String args[]) {
 		Scanner s = new Scanner(System.in);
 		
