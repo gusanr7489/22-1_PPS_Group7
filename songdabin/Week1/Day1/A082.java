@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class A082_송다빈_22000372 {
+public class A082 {
 	
 	public static void main(String[] args) {
 		Scanner s = new Scanner(System.in);
