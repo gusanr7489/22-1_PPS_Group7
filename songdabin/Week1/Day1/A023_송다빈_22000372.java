@@ -1,5 +1,5 @@
 
-public class A023_송다빈_22000372 {
+public class A023 {
 	private int sum = 0;
 
 	public int addDigits(int num) {
