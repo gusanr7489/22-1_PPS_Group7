@@ -1,4 +1,4 @@
-class Solution {
+class A072 {
     
     public int dayOfYear(String date) {
         int sum = 0;
