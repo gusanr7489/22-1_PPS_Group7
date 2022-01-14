@@ -37,3 +37,10 @@ A084 [접미사 배열](https://www.acmicpc.net/problem/11656)
 
 
 ## Day 10
+A015 [검증수](https://www.acmicpc.net/problem/2475)
+
+A018 [보물](https://www.acmicpc.net/problem/1026)
+
+A019 [숫자의 개수](https://www.acmicpc.net/problem/2577)
+
+A020 [지능형 기차](https://www.acmicpc.net/problem/2455)
