@@ -1,4 +1,4 @@
-# Week 2
+# Week 3
 ## Day 11
 A002 [Pascal’s Triangle](https://leetcode.com/problems/pascals-triangle/)
 
