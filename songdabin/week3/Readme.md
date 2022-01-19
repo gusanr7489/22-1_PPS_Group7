@@ -19,6 +19,13 @@ A045 [단어 공부](https://www.acmicpc.net/problem/1157)
 
 
 ## Day 13
+A058 [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+
+A062 [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901)
+
+A064 [Height Checker](https://leetcode.com/problems/height-checker/)
+
+A069 [요세푸스 문제](https://www.acmicpc.net/problem/11866)
 
 ## Day 14
 
