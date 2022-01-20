@@ -28,5 +28,8 @@ A064 [Height Checker](https://leetcode.com/problems/height-checker/)
 A069 [요세푸스 문제](https://www.acmicpc.net/problem/11866)
 
 ## Day 14
+A030 [좋은 날 싫은 날](https://www.acmicpc.net/problem/17211)
+
+A031 [초콜릿 자르기](https://www.acmicpc.net/problem/2163)
 
 ## Day 15
