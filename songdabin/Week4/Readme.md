@@ -16,3 +16,12 @@ A091 [Remove Element](https://leetcode.com/problems/remove-element/)
 A112 [3000번 버스](https://www.acmicpc.net/problem/9546)
 
 D004 [키로거](https://www.acmicpc.net/problem/5397)
+
+## Day 18
+C006 [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
+
+C019 [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+
+C020 [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
+
+C058 [K번째 수](https://www.acmicpc.net/problem/11004)
