@@ -1,26 +1,19 @@
 class Solution {
-    public boolean divisorGame(int n) {
-        boolean result;
-	     int who=0;
-	     boolean find = true;
-	     while(true) {
-	    	 find = false;
-	    	 for(int i=1; i<n; i++) {
-	    		 if(n%i==0) {
-	    			 n = n-i;
-	    			 find = true;
-	    			 break;
-	    		 }
-	    	 }
-	    	 if(!find) {
-	    		 break;
-	    	 }
-	    	 who++;
-	     }
-	     
-	     if(who%2 !=0) result = true;
-	     else result = false;
+    public int[] countBits(int n) {
+        int[] ans = new int[n+1];
+	    int count1 =0;
 	    
-	     return result;
+		for(int i=0; i<=n; i++) {
+			String binary = Integer.toBinaryString(i);
+			char[] binums = binary.toCharArray();
+			count1 = 0;
+			for(int j=0; j<binums.length; j++) {
+				if(binums[j] == '1') count1++;
+			}
+			ans[i] = count1;
+		}
+		
+		
+		return ans;
     }
 }
